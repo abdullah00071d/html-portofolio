@@ -81,7 +81,7 @@ footer{
     
 }
 #eight{
-    margin-left: 0px;
+    margin-left: 10px;
     margin-top: 25px;
     margin-bottom: 25px;
 }
@@ -145,6 +145,7 @@ footer{
     box-shadow: 8px 8px 8px burlywood;
     border-right: 10px;
     margin-bottom: 15px;
+    margin-left: 5px;
 }
 #fifthteen{
     font-family: Arial, Helvetica, sans-serif;
@@ -222,7 +223,7 @@ footer{
 }
 #twentythree{
     height: 20px;
-    width: 1400px;
+    width: 1415px;
     background-color:white;
     margin-left: 5px;
     vertical-align: top;
