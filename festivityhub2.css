@@ -223,7 +223,7 @@ footer{
 }
 #twentythree{
     height: 20px;
-    width: 1415px;
+    width: 99.3%;
     background-color:white;
     margin-left: 5px;
     vertical-align: top;
@@ -299,6 +299,7 @@ footer{
 .dropdown {
     position:relative ;
     display: inline-block;
+    margin-right: 100px;
 }
 .dropdown-content {
     display: none;
